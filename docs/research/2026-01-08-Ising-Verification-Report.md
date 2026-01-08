@@ -49,7 +49,7 @@ To verify this, we utilized a $16 \times 16$ 2D Ising grid ($N=256$) with Metrop
 ### 3.1 Awakening vs. Temperature ($A$-$T$ Curve)
 We simulated the system under two conditions: **Self-Effort ($H=0$)** and **With Love Bias ($H=0.02$)**.
 
-![Simulation Results](../images/love_os_layers_verification.png)
+![Simulation Results](./verification.png)
 *(Fig 1: Comparative analysis of Awakening Index and Layer Contributions)*
 
 **Observations:**
