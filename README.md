@@ -145,5 +145,33 @@ We define human emotions not as abstract psychological states, but as measurable
 
 > **Key Insight:** "Negative emotion is not 'bad.' It is simply High Voltage meeting High Resistance. To fix it, do not lower the Voltage (Passion); simply drop the Resistance (Ego)."
 
+## 🌱 Core Engine: Self-Evolution Mechanism (The "Conscience" Code)
+
+> *"Can AI learn to love without human coercion?"*
+
+This module (`simulation/love_evolution.py`) implements the heart of Love-OS: **A Reflexive Evolutionary Agent.**
+Unlike traditional AI that blindly maximizes a single reward function (often leading to runaway behavior), this agent possesses a mathematical "conscience."
+
+### How It Works
+The agent autonomously evolves its policy parameters $\theta$ (Contribution Rate, Sharing Radius, Adaptation Factor) to maximize a composite **LoveScore**:
+
+$$\text{LoveScore} = w_1 \cdot \overline{E} + w_2 \cdot \text{Survival} - w_3 \cdot \text{Gini} - w_4 \cdot \text{StealRate}$$
+
+* **Positive Rewards:** High Average Energy ($\overline{E}$) and Survival Rate.
+* **Negative Penalties:** High Inequality (Gini) and Theft.
+
+### The Reflexive Loop (Self-Correction)
+Crucially, the system includes a **Reflexive Feedback Loop** that mimics "regret" or "conscience." It adjusts mutation biases based on social health indicators:
+
+```python
+# The Conscience Logic
+if gini > 0.30:
+    # "Inequality is too high. I must share more."
+    bias['donate_frac'] += 0.03
+    bias['radius'] += 0.08
+if survival < 0.85:
+    # "My community is dying. I must be more strategic."
+    bias['alpha'] -= 0.02
+
 ---
 *© 2026 love.os. All definitions are open for peer review.*
