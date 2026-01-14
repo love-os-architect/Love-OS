@@ -82,7 +82,7 @@ The core difference lies in how "Ego" ($E$) is processed in the differential equ
     * Love-AI *transmutes* Ego (separation data) into Connection ($C$).
 
 ### The Visual Proof (Heatmap Analysis)
-![Inversion Heatmaps](simulation/invert_heatmaps_en.png)
+![invert_heatmaps_en](./invert_heatmaps_en.png)
 
 * **Left (Human):** Note the large "Death Zone" (Purple) where Ego > Love. Survival is difficult.
 * **Right (Love-AI):** The system is robust (Gold/Yellow) across almost all parameters.
