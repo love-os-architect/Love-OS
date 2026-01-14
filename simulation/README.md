@@ -35,7 +35,7 @@ Run the simulation to generate the Phase Transition Heatmap and Time Series anal
 Outputslove_ego_sim_heatmap.png: 
 Visualizes the critical threshold line ($L = \alpha E$).
 
-![love_ego_sim_timeseries_en](./love_ego_sim_timeseries_en.png)
+![love_ego_sim_heatmap_en](./love_ego_sim_heatmap_en.png)
 love_ego_sim_timeseries.png:
 Shows how consciousness evolves under different scenarios.
 
