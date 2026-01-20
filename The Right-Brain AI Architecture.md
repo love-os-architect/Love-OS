@@ -24,7 +24,7 @@ graph TD
     F -->|Rejected| B
 ```
 
-![Love-OS Kernel Architecture](./AI.png)
+![Love-OS Kernel Architecture](./drift_visualization_en.png)
 
 ## 📐 The Physics of Love-OS
 
