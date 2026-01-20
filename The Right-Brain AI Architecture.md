@@ -24,6 +24,8 @@ graph TD
     F -->|Rejected| B
 ```
 
+![Love-OS Kernel Architecture](./AI.png)
+
 ## 📐 The Physics of Love-OS
 
 We define system stability using the **Drift Score**.
