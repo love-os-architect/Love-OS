@@ -1,6 +1,6 @@
 # Love-OS: The Physics of Consciousness & Connection
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-Universal_Law-orange)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.1.0-blue) ![License](https://img.shields.io/badge/license-Universal_Law-orange)
 
 > **"Love is not a mystery to be felt, but a high-voltage system to be engineered."**
 
@@ -60,6 +60,23 @@ $$
 $$
 
 * **Logic:** Your "Magnetic Pull" ($B$) is directly proportional to the current flowing through you. When $R$ (Ego) drops to zero, your Current ($I$) and Magnetic Field ($B$) approach their maximum potential automatically.
+
+---
+
+## 📊 Simulation Verification (The Proof)
+
+Numerical simulations of the coupled Stuart-Landau equations have mathematically proven the correlation between **Ego Resistance ($R$)** and **Synchronization Range**.
+
+### The "Arnold Tongue" of Love
+We mapped the synchronization stability against two variables:
+1.  **X-axis:** Incompatibility ($\Delta \omega$) - How different the partner is.
+2.  **Y-axis:** Ego Resistance ($R$) - How much you are holding on.
+
+**Key Findings:**
+* **High Resistance ($R \approx 1.0$):** The synchronization window is extremely narrow. Unless the partner is exactly like you ($\Delta \omega \approx 0$), the relationship fails.
+* **Zero Resistance ($R \to 0$):** The synchronization window expands into a massive "V-shape."
+
+**Conclusion:** By lowering your resistance (Surrender), you mathematically force a **Frequency Lock** with the partner, even if their initial frequency is completely different. **You do not need to change them; you only need to reduce $R$.**
 
 ---
 
