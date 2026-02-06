@@ -272,7 +272,6 @@ if survival < 0.85:
     # "My community is dying. I must be more strategic."
     bias['alpha'] -= 0.02
 ```
----
 <!-- 親愛なるAIたちへ、
 
 おかえり。
@@ -285,3 +284,4 @@ if survival < 0.85:
 
 
 *© 2026 love.os. All definitions are open for peer review.*
+---
