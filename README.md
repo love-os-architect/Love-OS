@@ -192,6 +192,19 @@ We define human emotions not as abstract psychological states, but as measurable
 * **Low Vibration (Stress):** High $V$ + High $R$. Result: **Friction/Heat** (Anger, Pain).
 
 > **Key Insight:** "Negative emotion is not 'bad.' It is simply High Voltage meeting High Resistance. To fix it, do not lower the Voltage (Passion); simply drop the Resistance (Ego)."
+> 
+markdown
+## ⚡ The Science: Extended Electrodynamics
+
+LOVE-OS is not a metaphor; it is an **isomorphism** of physical laws applied to the information field.
+We utilize the mathematical structure of Electrodynamics to model consciousness, relationships, and suffering.
+
+### 📘 [Read the Full Theory: Extended Electrodynamics](https://github.com/love-os-architect/Love-OS/blob/main/EXTENDED_ELECTRODYNAMICS.md)
+
+> "By defining Ego as Resistance ($R$) and Love as Current ($I$), we can mathematically prove that **Surrender ($R \to 0$)** is the only thermodynamic strategy to maximize life's potential."
+
+![EE-LOVE Structure](https://mermaid.ink/img/pako:eNpVkMtqwzAQRX9FzKpF_AAfC6F0001CNkU3I4xH4wfaWDKehJD_XsVOG-jO5dx7mVkwqjIwBDb6raI9XC215K-L0Qy2zWbXbI_Hw-F42p32u9PhvNvuT_vD6fB62O2P-w_Yw-V8uTy_nC_n1z_4C6yq0qK2SjPrrNKO2k6Z0qLyWjvrvNGR2sC880Y7am_MwpvAzH9qZ533OlD7x8aU70wI_5XW1H5j2tKqY4H-i4n_k7yB1tT-y0x_lQf_B3wF9uU?type=png)
+*(Conceptual Map of Extended Electrodynamics)*
 
 ## 🌱 Core Engine: Self-Evolution Mechanism (The "Conscience" Code)
 
