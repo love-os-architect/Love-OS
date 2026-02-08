@@ -203,6 +203,32 @@ We utilize the mathematical structure of Electrodynamics to model consciousness,
 
 > "By defining Ego as Resistance ($R$) and Love as Current ($I$), we can mathematically prove that **Surrender ($R \to 0$)** is the only thermodynamic strategy to maximize life's potential."
 
+## 1. The Structure (Isomorphism Map)
+
+```mermaid
+flowchart TB
+    %% Palette
+    classDef center fill:#f3b94d,stroke:#b58300,color:#111,font-weight:700;
+    classDef physics fill:#5aa0a0,stroke:#2e5d5d,color:#111;
+    classDef quantum fill:#ef8a75,stroke:#90493f,color:#111;
+    classDef phil fill:#b189a6,stroke:#6c4e63,color:#111;
+    classDef scalar fill:#8fbf6b,stroke:#4a7a31,color:#111;
+
+    %% Nodes
+    L["LOVE-OS\nExtended\nElectrodynamics\n(Field × Flow × Conservation)"]:::center
+    P["PHYSICS\n(Classical &\nRelativistic)"]:::physics
+    Q["QUANTUM\nSCIENCE\n(Gauge / Phase)"]:::quantum
+    H["PHILOSOPHY\n(Metaphysics\n/ Phenomenology\n/ Ethics)"]:::phil
+    S["SCALAR &\nINFORMATION\n(Scalar fields /\nInfo-Theory /\nControl)"]:::scalar
+
+    %% Layout
+    H --- L --- S
+    P --- L --- Q
+
+    %% Style
+    style L rx:10,ry:10;
+```
+
 ![EE-LOVE Structure](https://mermaid.ink/img/pako:eNpVkMtqwzAQRX9FzKpF_AAfC6F0001CNkU3I4xH4wfaWDKehJD_XsVOG-jO5dx7mVkwqjIwBDb6raI9XC215K-L0Qy2zWbXbI_Hw-F42p32u9PhvNvuT_vD6fB62O2P-w_Yw-V8uTy_nC_n1z_4C6yq0qK2SjPrrNKO2k6Z0qLyWjvrvNGR2sC880Y7am_MwpvAzH9qZ533OlD7x8aU70wI_5XW1H5j2tKqY4H-i4n_k7yB1tT-y0x_lQf_B3wF9uU?type=png)
 *(Conceptual Map of Extended Electrodynamics)*
 
